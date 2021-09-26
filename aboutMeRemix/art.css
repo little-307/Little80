@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #1f3535;
+}
+nav .navbar-brand {
+    font-size: 8em;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: .65em;
+    opacity: .9;
+    cursor: pointer;
+    letter-spacing: 8px;
+    transition: 1.5s;
+    padding-left: 100px;
+}
+
+.navbar {
+    background-image: url(assets/skateboard2.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar-nav li {
+    /* display: flexbox;
+    justify-content: flex-end; */
+    margin-left: 60px;
+    margin-top: 100px;
+    margin-bottom: 0; 
+    justify-content: last;
+}
+
+.dropdown-menu a {
+    margin: 0;
+    padding: 5px;
+}
+
+.nav-link {
+    font-size: 1em;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+.collapse {
+    padding: 10px;
+}
+
+.break {
+    background-color: #14a6a5;
+    margin-top: 0;
+    height: 40px;
+    padding: 0;
+    margin-top: 0px;
+}
