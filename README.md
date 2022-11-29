@@ -1,4 +1,11 @@
 # Little80
+
+A re worked version of the "About Me" site built during the application process 
+
+//TODO - Add link to previous version "About Me" submitted.
+
+
+
 the Moth.mp4 file was too large to upload via the website. the same file was commited before in the git orientation located in the video-background file.
 need to figure out how to move files and folders aroud on GitHub.
 -- By adding the file through commiting the changes via commandline I was able to apply the larger file. 
